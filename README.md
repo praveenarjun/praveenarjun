@@ -1,5 +1,4 @@
-## Hi there 👋
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://praveenarjun.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
 <h2> Connect with me on 👇</h2>
 <a href="(https://www.linkedin.com/in/praveen-challa-6043a3276/)" target="_blank">
