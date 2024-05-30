@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**praveen/praveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**praveen/praveenchalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-challa-6043a3276//)]([https://www.linkedin.com/in/praveen-challa-6043a3276/])
@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 - Node.js
 - TypeScript
 - NestJS
-- Ethereum
+- javascript
+- java
+- python
+- html
+- css
  🔭 I’m currently working on machine learning ,web development
  🌱 I’m currently learning ...
  👯 I’m looking to collaborate on open sources
