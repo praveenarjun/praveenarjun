@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## ⚡ Skills:
 - Node.js
 - TypeScript
-- NestJS
+- NextJS
 - javascript
 - java
 - python
