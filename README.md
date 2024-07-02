@@ -25,7 +25,7 @@
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 Here are some ideas to get you started:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-challa-6043a3276//)]([https://www.linkedin.com/in/praveen-challa-6043a3276/])
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/praveen-challa-6043a3276//](https://www.linkedin.com/in/praveen-challa-6043a3276/))]([https://www.linkedin.com/in/praveen-challa-6043a3276/])
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@sreepraveenchalla@gmail.com)]([mailto:mail@sreepraveenchalla@gmail.com](https://mail.google.com/mail/u/0/#inbox))
 
 ## ⚡ Skills:
