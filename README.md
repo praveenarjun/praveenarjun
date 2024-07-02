@@ -1,7 +1,7 @@
 <img src="https://praveenarjun.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
 <h2> Connect with me on 👇</h2>
-<a href="(https://www.linkedin.com/in/praveen-challa-6043a3276/)" target="_blank">
+<a href="https://www.linkedin.com/in/praveen-challa-6043a3276" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" /> 
 <a href="(https://x.com/praveencha75984)" target="_blank">
 <img src="https://img.shields.io/badge/Twitter--blue" />
