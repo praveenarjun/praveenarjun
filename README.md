@@ -29,7 +29,6 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 #
 
@@ -45,9 +44,6 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 Here are some ideas to get you started:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/praveen-challa-6043a3276//](https://www.linkedin.com/in/praveen-challa-6043a3276/))]([https://www.linkedin.com/in/praveen-challa-6043a3276/])
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@sreepraveenchalla@gmail.com)]([mailto:mail@sreepraveenchalla@gmail.com](https://mail.google.com/mail/u/0/#inbox))
-
 ## ⚡ Skills:
 - Node.js
 - TypeScript
@@ -61,7 +57,7 @@ Here are some ideas to get you started:
  🌱 I’m currently learning ...
  👯 I’m looking to collaborate on open sources
  🤔 I’m looking for help 
- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text"/>
 </p>
