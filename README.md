@@ -41,5 +41,4 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenarjun&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<h2>See my portfolio 🌐</h2>
-[My Portfolio](https://github.com/praveenarjun)
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
