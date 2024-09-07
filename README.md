@@ -4,11 +4,8 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/praveen-challa-6043a3276" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue"/> 
-<a href="(https://x.com/praveencha75984)" target="_blank">
-<img src="https://img.shields.io/badge/Twitter--blue" />
 <a href="(https://leetcode.com/u/Arjunkrishna1234/)" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode--blue" />
-</a>
+<img src="https://img.shields.io/badge/LeetCode--blue"/>
 </a>
 </a> 
 
