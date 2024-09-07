@@ -2,6 +2,7 @@
 # 🏄‍♂️ Praveen Challa
 **`Digital Craftsman (Developer)`**
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 Hi there! I'm an indie full-stack developer and content creator with a deep passion for machine learning, cloud computation, web development, and Spring Boot in Java. I believe in the power of technology to transform ideas into reality and solve real-world problems.
 
 ## Connect with me on 👇
@@ -32,7 +33,6 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" style="padding-right:10px;" />
 </p>
-
 <br />
 
 ## ⚡ Current Stats
