@@ -9,6 +9,10 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 </a>
 </a> 
 
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="[https://leetcode.com/u/Arjunkrishna1234/]?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
