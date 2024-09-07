@@ -11,7 +11,8 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 
 <p align="center">
   
-  <img  align=top flex-grow=1 src="[https://leetcode.com/u/Arjunkrishna1234/]?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcode.com/u/Arjunkrishna1234?theme=dark&font=Nunito&ext=heatmap" />  
+  
 </p>
 ### 🧰 Languages and Tools
 
