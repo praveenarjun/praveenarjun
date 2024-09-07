@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Praveen Challa</h1>
 
 Hi there! I'm an indie full-stack developer and content creator with a deep passion for machine learning, cloud computation, web development, and Spring Boot in Java. I believe in the power of technology to transform ideas into reality and solve real-world problems.
+
+<br/>
+<br/>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Connect with me on 👇
