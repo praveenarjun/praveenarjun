@@ -3,7 +3,7 @@
 Hi there! I'm an indie full-stack developer and content creator with a deep passion for machine learning, cloud computation, web development, and Spring Boot in Java. I believe in the power of technology to transform ideas into reality and solve real-world problems.
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/praveen-challa-6043a3276" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn--blue" /> 
+<img src="https://img.shields.io/badge/LinkedIn--blue"/> 
 <a href="(https://x.com/praveencha75984)" target="_blank">
 <img src="https://img.shields.io/badge/Twitter--blue" />
 </a>
