@@ -9,7 +9,7 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 [![LeetCode](https://img.shields.io/badge/LeetCode--blue)](https://leetcode.com/u/Arjunkrishna1234/)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Arjunkrishna1234?theme=dark&font=Strait" alt="LeetCode Streak" />
+  <img src="https://leetcard.jacoblin.cool/Arjunkrishna1234?theme=dark&font=Strait&ext=heatmap" alt="LeetCode Flash Card with Heatmap" />
 </p>
 
 ### 🧰 Languages and Tools
