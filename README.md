@@ -11,8 +11,6 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 <a href="(https://leetcode.com/u/Arjunkrishna1234/)" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--blue" />
 </a>
-<br/> 
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
