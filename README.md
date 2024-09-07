@@ -1,13 +1,21 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Praveen Challa</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 Hi there! I'm an indie full-stack developer and content creator with a deep passion for machine learning, cloud computation, web development, and Spring Boot in Java. I believe in the power of technology to transform ideas into reality and solve real-world problems.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Connect with me on 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue)](https://www.linkedin.com/in/praveen-challa-6043a3276/)
 [![LeetCode](https://img.shields.io/badge/LeetCode--blue)](https://leetcode.com/u/Arjunkrishna1234/)
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **Machine-Learning,Web development,Data Science,Cloud (AWS,Azure)**
+- 🌱 &nbsp; I’m currently learning Javascript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/praveenarjun?tab=repositories])
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Arjunkrishna1234?theme=dark&font=Strait&ext=heatmap" alt="LeetCode Flash Card with Heatmap" />
