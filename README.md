@@ -23,6 +23,7 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 
   <br/>
   <br/>
+  <br/>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Arjunkrishna1234?theme=dark&font=Strait&ext=heatmap" alt="LeetCode Flash Card with Heatmap" />
@@ -46,14 +47,12 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" style="padding-right:10px;" />
 </p>
-<br />
+<br/>
 
 ## ⚡ Current Stats
-
 <div align="center">
   <img width="48%" src="https://streak-stats.demolab.com/?user=praveenarjun&theme=tokyonight&count_private=true" alt="GitHub Streak" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=praveenarjun&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenarjun&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
