@@ -43,9 +43,8 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
   <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
 </div>
 
-## AWS CERTIFICATES 
-
-
+## CLOUD CERTIFICATES 
+<img src="https://github.com/praveenarjun/praveenarjun/blob/main/aws certificate.png" alt="AWS Cloud Practitioner Certification 897 MARKS" width="120" /><img src="https://github.com/praveenarjun/praveenarjun/blob/main/oracle image.png" alt="AWS Cloud Practitioner Certification 897 MARKS" width="260" />
 
 
 ---
