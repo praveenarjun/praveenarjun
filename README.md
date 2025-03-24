@@ -25,7 +25,7 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
   <br/>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/brungesh0098?theme=dark&font=Strait&ext=heatmap" alt="LeetCode Flash Card with Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/praveen_challa?theme=dark&font=Strait&ext=heatmap" alt="LeetCode Flash Card with Heatmap" />
 </p>
 
 ### 🧰 Languages and Tools
