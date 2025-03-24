@@ -9,7 +9,7 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 ## Connect with me on 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue)](https://www.linkedin.com/in/praveen-challa-6043a3276/)
-[![LeetCode](https://img.shields.io/badge/LeetCode--blue)](https://leetcode.com/u/Arjunkrishna1234/)
+[![LeetCode](https://img.shields.io/badge/LeetCode--blue)](https://leetcode.com/u/praveen_challa/)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🧐 More About Me:
