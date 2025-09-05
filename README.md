@@ -37,7 +37,7 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 
 ## GSSoC (24 Extd) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://github.com/praveenarjun/praveenarjun/blob/main/" width="100px" height="100px" />
+  <img src="https://github.com/praveenarjun/praveenarjun/blob/main/Summit Seeker Badge" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
