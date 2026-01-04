@@ -83,7 +83,6 @@ Hi there! I'm an indie full-stack developer and content creator with a deep pass
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praveenarjun&theme=tokyonight">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveenarjun&theme=dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praveenarjun&theme=tokyonight&utcOffset=8">
-<!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=praveenarjun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"> -->
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenarjun&theme=radical">
   <br/>
 <a href="https://holopin.me/praveenarjun">   <img src="https://holopin.me/praveenarjun" alt="@@praveenarjun Holopin board" /> </a>
